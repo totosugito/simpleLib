@@ -1,0 +1,4 @@
+simpleLib
+=========
+
+Qt Simple Library
